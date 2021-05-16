@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fischerstardust的小窝</title>
+  
+  <subtitle>stardust</subtitle>
+  <link href="https://fischerstardust.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://fischerstardust.github.io/"/>
+  <updated>2021-05-16T08:37:44.493Z</updated>
+  <id>https://fischerstardust.github.io/</id>
+  
+  <author>
+    <name>Fischerstardust</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写在前面</title>
+    <link href="https://fischerstardust.github.io/2021/05/16/xie-zai-qian-mian/"/>
+    <id>https://fischerstardust.github.io/2021/05/16/xie-zai-qian-mian/</id>
+    <published>2021-05-16T09:09:39.205Z</published>
+    <updated>2021-05-16T08:37:44.493Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="https://fischerstardust.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DAMASK实例3--多晶镁</title>
+    <link href="https://fischerstardust.github.io/2021/05/14/damask-shi-li-3-duo-jing-mei/"/>
+    <id>https://fischerstardust.github.io/2021/05/14/damask-shi-li-3-duo-jing-mei/</id>
+    <published>2021-05-14T12:52:43.753Z</published>
+    <updated>2021-05-14T12:56:26.258Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="DAMASK" scheme="https://fischerstardust.github.io/tags/DAMASK/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DAMASK实例2--BCC双相钢</title>
+    <link href="https://fischerstardust.github.io/2021/05/14/damask-shi-li-2-bcc-shuang-xiang-gang/"/>
+    <id>https://fischerstardust.github.io/2021/05/14/damask-shi-li-2-bcc-shuang-xiang-gang/</id>
+    <published>2021-05-14T10:29:34.383Z</published>
+    <updated>2021-05-14T10:46:44.419Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="DAMASK" scheme="https://fischerstardust.github.io/tags/DAMASK/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DAMASK实例1--二维多晶铝</title>
+    <link href="https://fischerstardust.github.io/2021/05/14/damask-shi-li-1-er-wei-duo-jing-lu/"/>
+    <id>https://fischerstardust.github.io/2021/05/14/damask-shi-li-1-er-wei-duo-jing-lu/</id>
+    <published>2021-05-14T03:57:17.376Z</published>
+    <updated>2021-05-14T11:14:00.499Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="DAMASK" scheme="https://fischerstardust.github.io/tags/DAMASK/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DAMASK安装教程——以Deepin为例</title>
+    <link href="https://fischerstardust.github.io/2021/05/14/damask-an-zhuang-jiao-cheng-yi-deepin-wei-li/"/>
+    <id>https://fischerstardust.github.io/2021/05/14/damask-an-zhuang-jiao-cheng-yi-deepin-wei-li/</id>
+    <published>2021-05-14T03:56:38.520Z</published>
+    <updated>2021-05-14T11:13:52.420Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="DAMASK" scheme="https://fischerstardust.github.io/tags/DAMASK/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Neper安装教程</title>
+    <link href="https://fischerstardust.github.io/2021/05/10/neper-an-zhuang-jiao-cheng/"/>
+    <id>https://fischerstardust.github.io/2021/05/10/neper-an-zhuang-jiao-cheng/</id>
+    <published>2021-05-10T14:49:08.169Z</published>
+    <updated>2021-05-14T11:14:25.886Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Neper" scheme="https://fischerstardust.github.io/tags/Neper/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Neper生成层状微结构</title>
+    <link href="https://fischerstardust.github.io/2021/05/10/neper-sheng-cheng-ceng-zhuang-wei-jie-gou/"/>
+    <id>https://fischerstardust.github.io/2021/05/10/neper-sheng-cheng-ceng-zhuang-wei-jie-gou/</id>
+    <published>2021-05-10T14:49:08.147Z</published>
+    <updated>2021-05-14T11:14:37.104Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Neper" scheme="https://fischerstardust.github.io/tags/Neper/"/>
+    
+  </entry>
+  
+</feed>
